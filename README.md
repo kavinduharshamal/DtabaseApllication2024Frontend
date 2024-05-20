@@ -1,7 +1,9 @@
 # r3f-vite-starter
-A boilerplate to build R3F projects
-2024 DATABSE Application Frontend
+# A boilerplate to build R3F projects
+# 2024 DATABSE Application Frontend
+```
 for run the application need to create new folder called r3f-vite-starter then past the content in to that
+```
 ```
 yarn
 yarn dev
